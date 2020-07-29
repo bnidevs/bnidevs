@@ -1,16 +1,24 @@
-### Hi there 👋
+# Bill Ni
 
-<!--
-**bnidevs/bnidevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+Some things about me:
+ - My IDE setup: Sublime Text + Terminal
+ - Goto language: Python3
+ - My website: [billni.com](https://billni.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I run a SaaS company open to contract work. @[Hexadoon](https://github.com/Hexadoon/). Feel free to reach out for inquiries.
+ 
+Stuff I hate:
+ - Languages that mandate semicolons :tired_face: (are newlines not good enough for your compiler?)
+ - Messy websites
+
+Stuff I love:
+ - Arizona Iced Tea
+ - Code comments
+ - Database schemas that actually make sense :sob: (if you have lists in a row, please don't use a relational database)
+ 
+Resume hacks:
+ - If you're in Google Docs/Microsoft Word, use a table without borders or padding to clean up row spacing
+ - Make your margins 0.5 inch to fit more stuff
+ - Try to make bullet points take up the whole line and try not to go over by one or two words
