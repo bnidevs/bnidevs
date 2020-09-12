@@ -22,3 +22,5 @@ Resume hacks:
  - If you're in Google Docs/Microsoft Word, use a table without borders or padding to clean up row spacing
  - Make your margins 0.5 inch to fit more stuff
  - Try to make bullet points take up the whole line and try not to go over by one or two words
+
+[![Bill's github stats](https://github-readme-stats.vercel.app/api?username=bnidevs)](https://github.com/anuraghazra/github-readme-stats)
