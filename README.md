@@ -6,8 +6,6 @@ Some things about me:
  - My IDE setup: Sublime Text + Terminal
  - Goto language: Python3
  - My website: [billni.com](https://billni.com)
-
-I run a SaaS company open to contract work. @[Hexadoon](https://github.com/Hexadoon/). Feel free to reach out for inquiries.
  
 Stuff I hate:
  - Languages that mandate semicolons :tired_face: (are newlines not good enough for your compiler?)
