@@ -22,3 +22,5 @@ Resume hacks:
  - Try to make bullet points take up the whole line and try not to go over by one or two words
 
 [![Bill's github stats](https://github-readme-stats.vercel.app/api?username=bnidevs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnidevs&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
