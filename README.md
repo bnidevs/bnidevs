@@ -14,7 +14,6 @@ Stuff I hate:
 Stuff I love:
  - Arizona Iced Tea
  - Code comments
- - Database schemas that actually make sense :sob: (if you have lists in a row, please don't use a relational database)
  
 Resume hacks:
  - If you're in Google Docs/Microsoft Word, use a table without borders or padding to clean up row spacing
