@@ -3,7 +3,7 @@
 Welcome to my GitHub!
 
 Some things about me:
- - My IDE setup: Sublime Text + Terminal
+ - My IDE setup: Sublime Text + Terminal / VSCode
  - Goto language: Python3
  - My website: [billni.com](https://billni.com)
  
