@@ -20,5 +20,5 @@ Resume hacks:
  - Make your margins 0.5 inch to fit more stuff
  - Try to make bullet points take up the whole line and try not to go over by one or two words
 
-[![Bill's github stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats) 
+[![Bill's GitHub stats](https://github-stats-extended.vercel.app/api?username=bnidevs)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bnidevs&theme=synthwave)](https://git.io/streak-stats)
